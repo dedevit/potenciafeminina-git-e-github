@@ -7,3 +7,5 @@ basta fazer um fork do projeto  em seguida
 adicionar um anova branch : git branch -b nome da branch 
 
 fazer as alterações e fazer um push
+
+Preciso entendenr
