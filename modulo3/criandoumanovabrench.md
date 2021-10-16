@@ -1,10 +1,8 @@
 #Comando necessario para criação de uma nova branch via terminal:
 
-<<<<<<< HEAD
 O comando é :
 git checkout -b nome da nova branch
 
-=======
 O comando é :Esse comando cria e troca para novabranch
 git checkout -b nome da nova branch
 
@@ -26,4 +24,3 @@ git checkout nome da branch
 
 Caso queira excluir a branch pelo git hub
 va na seção de listagem de branch e click no icone de lixeira.
->>>>>>> modulo3
