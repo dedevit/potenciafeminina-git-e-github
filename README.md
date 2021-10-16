@@ -25,3 +25,11 @@ Repositório do curso sobre Git  e GitHub
 
 
 git push --set-upstream origin main
+
+
+git checkout -b nome da nova branch
+
+git checkout  nome da nova branch
+
+git branch
+
