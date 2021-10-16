@@ -2,16 +2,15 @@
 Repositório do curso sobre Git  e GitHub
 
 #configuração da conexão
-
-git init                       *Verifica se existe um ambiente remoto criado
-git clone github.com/dedevit/potenciafeminina-git-e-github.git
+ git remote -v                               *Verifica se existe um ambiente remoto criado
+  git clone github.com/dedevit/potenciafeminina-git-e-github.git cria conexão
 
 
 
 #COMANDOS MAIS UTILIZADOS
  
- git remote -v
- 
+
+ git init                         * Cria a pasta .git 
  git status                     * Verificar arquivos e status dentro do repositório
  
  git add .                      *adiciona todos os arquivos para  esteira de commit
